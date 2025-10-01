@@ -29,6 +29,7 @@
     border-color: #16a34a;
 }
 
+
 .form-style input[type="checkbox"]:checked::after {
     content: '✓';
     position: absolute;
